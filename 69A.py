@@ -7,7 +7,7 @@ for i in range(t):
     L[1]+=b
     L[2]+=c
 if L[0]==0 and L[1]==0 and L[2]==0:
-    print("YES")
+    print("yes")
 else:
-    print("NO")
+    print("no")
 
